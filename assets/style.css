@@ -10,9 +10,10 @@ body {
 
 /* -------------------------------------------------------- Headers */
 
-.hero-section {
+h1 {
     color:#535657;
     font-weight: 900;
     text-align: center;
     text-transform: uppercase;  
 }
+
