@@ -52,6 +52,12 @@ h1 {
     border: #f4faff;
 }
 
+.btn-primary:hover {
+    background-color: #f4faff;
+    color: #4F646F;
+    border: 1px solid #4F646F;
+}
+
 
 /* -------------------------------------------------------- Hero section */
 
