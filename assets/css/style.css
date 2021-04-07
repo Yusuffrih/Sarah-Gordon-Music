@@ -6,6 +6,12 @@ body {
     text-align: center;
     font-weight: 600;
     margin: 0 auto;
+    background-image: url('../images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #DEE7E7;
+    color: #4F646F;
 }
 
 /* -------------------------------------------------------- Navbar */
