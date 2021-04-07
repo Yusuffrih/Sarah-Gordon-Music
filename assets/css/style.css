@@ -46,7 +46,7 @@ h1 {
     color:#535657;
     font-weight: 900;
     text-align: center;
-    text-transform: uppercase;  
+    text-transform: uppercase;
 }
 
 
@@ -124,5 +124,11 @@ h1 {
     height: 175px;
     border: 1px solid #f4faff;
     border-radius: 50%;
+    margin-top: 25px;
+}
+
+.profile blockquote {
+    font-size: 1.25rem;
+    padding-left: 4px;
     margin-top: 25px;
 }
