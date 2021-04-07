@@ -106,3 +106,15 @@ h1 {
   height: 100%;
   border-radius: 25px;
 }
+
+
+/* --------------------------------------------------------Testimonials section */
+
+.profile {
+    background-color: #4F646F;
+    color: #f4faff;
+    border-radius: 25px;
+    padding-top: 4px;
+    margin-top: 15px;
+    min-height: 450px;
+}
