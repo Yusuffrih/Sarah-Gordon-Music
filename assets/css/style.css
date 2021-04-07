@@ -168,3 +168,11 @@ blockquote i {
     min-height: 500px;
 }
 }
+
+
+/* --------------------------------------------------------Footer section */
+
+footer {
+    background-color: #4F646F;
+    margin-top: 20px;
+}
