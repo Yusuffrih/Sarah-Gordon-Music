@@ -119,6 +119,12 @@ h1 {
     min-height: 450px;
 }
 
+.profile:hover {
+    background-color: #f4faff;
+    color: #535657;
+    border: 1px solid #4F646F;
+}
+
 .profile img {
     width: 175px;
     height: 175px;
@@ -135,4 +141,10 @@ h1 {
 
 blockquote i {
     padding: 4px;
+}
+
+@media (max-width:320px){
+    .profile {
+    min-height: 500px;
+}
 }
