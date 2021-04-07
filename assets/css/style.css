@@ -132,3 +132,7 @@ h1 {
     padding-left: 4px;
     margin-top: 25px;
 }
+
+blockquote i {
+    padding: 4px;
+}
