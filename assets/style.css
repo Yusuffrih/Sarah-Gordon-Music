@@ -17,3 +17,10 @@ h1 {
     text-transform: uppercase;  
 }
 
+/* -------------------------------------------------------- Hero section */
+
+.hero-section {
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
