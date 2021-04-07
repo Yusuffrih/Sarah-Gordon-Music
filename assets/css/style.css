@@ -43,6 +43,16 @@ h1 {
     text-transform: uppercase;  
 }
 
+
+/* -------------------------------------------------------- Buttons */
+
+.btn-primary {
+    color: #f4faff;
+    background-color: #4F646F;
+    border: #f4faff;
+}
+
+
 /* -------------------------------------------------------- Hero section */
 
 .hero-section {
