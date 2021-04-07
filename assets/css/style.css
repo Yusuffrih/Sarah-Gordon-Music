@@ -14,7 +14,15 @@ body {
     background-color: #4F646F;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color:#f4faff;
+}
 
+.navbar-light .navbar-brand {
+    color: #f4faff;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
 
 /* -------------------------------------------------------- Headers */
 
