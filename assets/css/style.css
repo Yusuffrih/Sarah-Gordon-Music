@@ -176,3 +176,11 @@ footer {
     background-color: #4F646F;
     margin-top: 20px;
 }
+
+.contact .social-media {
+    list-style: none;
+    font-size: 200%;
+    display: inline-block;
+    padding-left: 0;
+    margin-bottom: 0;
+}
