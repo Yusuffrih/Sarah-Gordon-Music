@@ -24,6 +24,10 @@ body {
     font-weight: 900;
 }
 
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #dee7e7;
+}
+
 /* -------------------------------------------------------- Headers */
 
 h1 {
