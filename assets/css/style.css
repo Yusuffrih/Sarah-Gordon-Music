@@ -28,6 +28,12 @@ body {
     color: #dee7e7;
 }
 
+.navbar-light .navbar-toggler {
+    background-color: #f4faff;
+    color: #535657;
+    border-color: #535657;
+}
+
 /* -------------------------------------------------------- Headers */
 
 h1 {
