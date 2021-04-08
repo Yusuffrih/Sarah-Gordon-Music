@@ -241,6 +241,10 @@ blockquote i {
     margin-top: 15px;
 }
 
+.experience-item li {
+    list-style: none;
+}
+
 /* --------------------------------------------------------Footer section */
 
 
