@@ -190,6 +190,10 @@ blockquote i {
     transition-duration: 0.1s;
 }
 
+.songs-container {
+    padding-left: 0;
+}
+
 .songs {
     margin-top: 15px;
     text-align: center;
