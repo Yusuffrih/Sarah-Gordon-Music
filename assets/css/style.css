@@ -158,9 +158,18 @@ blockquote i {
     margin-top: 20px;
 }
 
-.contact,
+.contact {
+    list-style: none;
+    font-size: 200%;
+    margin-bottom: 4px;
+    padding-left: 0;
+}
+
 .social-media {
     list-style: none;
-    display: inline-block;
+    font-size: 200%;
+    padding-left: 0;
+    margin-bottom: 0;
 }
+
 
