@@ -211,6 +211,9 @@ blockquote i {
     font-weight: 800;
 }
 
+#old-price {
+    text-decoration: line-through;
+}
 
 /* --------------------------------------------------------Footer section */
 
