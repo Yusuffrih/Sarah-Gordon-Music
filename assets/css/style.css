@@ -247,6 +247,7 @@ blockquote i {
 
 .cv-item {
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 /* --------------------------------------------------------Footer section */
