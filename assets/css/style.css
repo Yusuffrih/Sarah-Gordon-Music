@@ -245,6 +245,10 @@ blockquote i {
     list-style: none;
 }
 
+.cv-item {
+    text-transform: uppercase;
+}
+
 /* --------------------------------------------------------Footer section */
 
 
