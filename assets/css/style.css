@@ -230,6 +230,16 @@ blockquote i {
     min-height: 450px;
 }
 
+/* --------------------------------------------------------About Me section */
+
+
+.aboutme-container {
+    background-color: #4F646F;
+    color: #f4faff;
+    border-radius: 25px;
+    padding-top: 4px;
+    margin-top: 15px;
+}
 
 /* --------------------------------------------------------Footer section */
 
