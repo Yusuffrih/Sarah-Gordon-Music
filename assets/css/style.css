@@ -206,6 +206,12 @@ blockquote i {
     font-size: 2rem;
 } 
 
+.price{
+    font-size: 200%;
+    font-weight: 800;
+}
+
+
 /* --------------------------------------------------------Footer section */
 
 
