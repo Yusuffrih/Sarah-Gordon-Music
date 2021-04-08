@@ -153,23 +153,17 @@ blockquote i {
 /* --------------------------------------------------------Footer section */
 
 
-.footer {
+footer {
     background-color: #4F646F;
     margin-top: 20px;
 }
 
-.contact {
-    list-style: none;
-    font-size: 200%;
-    margin-bottom: 4px;
-    padding-left: 0;
-}
-
+.contact,
 .social-media {
     list-style: none;
     font-size: 200%;
+    margin: 5px;
     padding-left: 0;
-    margin-bottom: 0;
 }
 
 .contact li,
@@ -180,6 +174,9 @@ blockquote i {
     margin: 4px;
 }
 
-
+.contact li a,
+.social-media li a {
+    color: #F4FAFF;
+}
 
 
