@@ -184,6 +184,11 @@ blockquote i {
     height: 30px;
 }
 
+.audio-controls:hover {
+    border: 1px solid #4F646F;
+    border-radius: 25px;
+    transition-duration: 0.1s;
+}
 
 
 /* --------------------------------------------------------Footer section */
