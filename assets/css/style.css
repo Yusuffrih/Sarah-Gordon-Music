@@ -215,6 +215,16 @@ blockquote i {
     text-decoration: line-through;
 }
 
+#form-container {
+    background-color: #4F646F;
+    color: #f4faff;
+    border-radius: 25px;
+    padding-top: 4px;
+    margin-top: 15px;
+    min-height: 450px;
+}
+
+
 /* --------------------------------------------------------Footer section */
 
 
