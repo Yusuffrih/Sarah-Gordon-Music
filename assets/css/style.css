@@ -49,6 +49,12 @@ h1 {
     text-transform: uppercase;
 }
 
+@media (max-width: 501px) {
+    h1, h2 {
+        font-size: 185%;
+    }
+}
+
 
 /* -------------------------------------------------------- Buttons */
 
