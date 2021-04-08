@@ -107,7 +107,7 @@ h2::after {
     border-radius: 25px;
 }
 
-/* -------------------------------------------------------- Watch & Listen section */
+/* -------------------------------------------------------- Live Studio Covers section */
 
 /* code from youtube embedding */
 
@@ -126,6 +126,13 @@ h2::after {
   width: 100%;
   height: 100%;
   border-radius: 25px;
+}
+
+/* ---- end */
+
+.iframe-container:hover {
+    border: 1px solid #f4faff;
+    border-radius: 25px;
 }
 
 
