@@ -190,6 +190,11 @@ blockquote i {
     transition-duration: 0.1s;
 }
 
+.songs {
+    margin-top: 15px;
+    text-align: center;
+    list-style: none;
+}
 
 /* --------------------------------------------------------Footer section */
 
