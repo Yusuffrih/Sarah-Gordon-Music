@@ -43,4 +43,12 @@
 * To see a sample of songs that will be sung if I pay for the service
 
 ### Site Owner Goals
-
+As a site owner, I want:
+* To receive bookings through my website.
+* Communicate clearly to any prospective customers the cost of the service.
+* To direct traffic to my social network pages and increase popularity, personal brand and my fanbase.
+* To provide website users with a positive user experience.
+* To advertise recent customers' positive experiences and increase referrals.
+* Prospective customers to hear my voice as soon as possible and increase the likelihood of them making a booking. 
+* To give perspective customers an insight into my performing career & achievements.
+* To give prospective customers an idea of the kind of person I am as they will be sharing their wedding day with me.
