@@ -290,3 +290,15 @@ footer {
     vertical-align: top;
 }
 
+@media (min-width:991px){
+    .social-media {
+        padding-top: 33px;
+    }
+}
+
+@media (min-width:1200px){
+    .social-media {
+        padding-top: 0;
+    }
+}
+
