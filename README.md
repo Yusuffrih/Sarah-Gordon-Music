@@ -56,3 +56,9 @@ As a site owner, I want:
 ### User Requirements & Expectations
 
 #### Requirements
+
+* To be able to navigate the website using the navbar
+* To be able to hear the voice of the singer and to see her performing, giving the user a shop window view of the service being offered
+* To be able to make a booking through the website without any bugs or issues
+* To be able to quickly contact the site owner
+* For the content of the page to be displayed in a way that is readible and attractive and promotes a positive user experience
