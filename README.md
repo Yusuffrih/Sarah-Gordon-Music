@@ -64,3 +64,11 @@ As a site owner, I want:
 * For the content of the page to be displayed in a way that is readible and attractive and promotes a positive user experience
 
 #### **Expectations**
+* The existence of a nav-bar which makes it easy to navigate the website pages
+* To be able to read about previous customers' experiences in a testimonials page
+* Information about the site owner is easily found and gives a good sense of their abilities. This is essential when paying for this kind of service
+* All of the design elements display in a seamless manner
+* Text and images are clearly readable and contrast against their background
+* If using a screen-reader, the non-text elements have aria labels
+
+
