@@ -71,4 +71,6 @@ As a site owner, I want:
 * Text and images are clearly readable and contrast against their background
 * If using a screen-reader, the non-text elements have aria labels
 
+### Design Decisions
+
 
