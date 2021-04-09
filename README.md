@@ -74,3 +74,6 @@ As a site owner, I want:
 ### Design Decisions
 
 When designing the website, I carried out some market research to see what the general design choices for similar websites. I carried out [Google](https://www.google.com) searches to see if I could find websites which provided a similar service that I could take some inspiration from. As part of my research, I found that there was generally a bright, almost Spring time theme which was sleek and attractive throughout. This was in keeping with the wedding theme.
+
+#### **Fonts** 
+When deciding the fonts that I would use on this website, I searched through Google Fonts to see if there were any fonts that looked attractive and sleek and that would look good when styled. I chose the **Cormorant Garamond** font due to its nice, stylish look which I though suited the sites look and feel. I decided have used Sans-Serif as a backup font in case Google Fonts does not work for any reason. 
