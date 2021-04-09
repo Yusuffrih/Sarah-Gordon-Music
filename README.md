@@ -42,4 +42,5 @@
 * To view other projects that the site owner has worked on such as the live studio covers
 * To see a sample of songs that will be sung if I pay for the service
 
+### Site Owner Goals
 
