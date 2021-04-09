@@ -15,3 +15,6 @@
         * Colours
         * Images
         * Wireframes
+* Features
+    * Features that have been developed
+    * Features to Implement
