@@ -82,6 +82,10 @@ When deciding the fonts that I would use on this website, I searched through [Go
 
 Icons used in this project were taken from [Font Awesome](https://fontawesome.com/). Icons were used to style the links to the social media pages and contact information in the footer. Some icons were also used to help illustrate the pricing section on the booking page.  
 
+
 #### Colours
 
 When deciding what the colour scheme of my website would be, I did some research as mentioned above. I visited websites that had a similar purpose/goal to this one, Wedding Singers websites e.g. [https://weddingsinger.ie](https://weddingsinger.ie/). As previously mentioned, weddings generally tend to be themed with bright colours. This drove the decision around what the colour scheme would be, while being cognisant to keep it simple and not distracting from the content. 
+
+I visited [Coolors](https://coolors.co/) to find a colour scheme which matched what I envisaged for the site. I chose the font colors and the background colors off of this palette.  
+
