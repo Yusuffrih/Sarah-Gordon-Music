@@ -288,6 +288,7 @@ footer {
 .footer-contact {
     font-size: 60%;
     vertical-align: top;
+    padding-right: 4px;
 }
 
 @media (min-width:991px){
