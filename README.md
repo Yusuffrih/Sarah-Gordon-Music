@@ -54,3 +54,5 @@ As a site owner, I want:
 * To give prospective customers an idea of the kind of person I am as they will be sharing their wedding day with me.
 
 ### User Requirements & Expectations
+
+#### Requirements
