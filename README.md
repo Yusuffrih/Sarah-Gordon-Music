@@ -18,3 +18,8 @@
 * Features
     * Features that have been developed
     * Features to Implement
+* Technologies Used
+* Testing
+* Bugs
+* Deployment
+* Credit
