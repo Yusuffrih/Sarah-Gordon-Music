@@ -97,3 +97,7 @@ I visited [Coolors](https://coolors.co/) to find a colour scheme which matched w
 * Navbar, Testimonial containers and buttons were given a **#4F646F** this was to keep in scheme with the font. All items inside these elements were given a colour of **#F4FAFF** to contrast and make it easily readable.
 
 #### Images
+*Follow the below links to view the relative images*
+
+* The [hero image]() used was original and was uploaded from my hardrive.
+* Testimonial [profile photos]() and the [background image]() of marbling that were used were obtained from [Unsplash](https://unsplash.com/).
