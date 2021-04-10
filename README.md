@@ -92,3 +92,6 @@ I visited [Coolors](https://coolors.co/) to find a colour scheme which matched w
 ![color scheme](assets/images/color-scheme/ColourPalette-SarahGordonMusic.png)
 
 **font colours:**
+* For the general font in the body of the website, I chose **#4F646F** as it contrasted against the light coloured background image
+* H1: I chose **#535657**, a navy colour which contrasted very well with the white marbled background image I chose to have throughout the website. This differed from the rest of the text very slightly so as to give it increased importance to the site user.
+* Navbar, Testimonial containers and buttons were given a **#4F646F** this was to keep in scheme with the font. All items inside these elements were given a colour of **#F4FAFF** to contrast and make it easily readable.
