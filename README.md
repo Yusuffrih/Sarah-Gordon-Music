@@ -102,3 +102,11 @@ font colours:
 * The [hero image](assets/images/general/SGM.jpg) used was original and was uploaded from my hardrive.
 * Testimonial [profile photos](assets/images/testimonials) and the [background image](assets/images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg) of marbling that were used were obtained from [Unsplash](https://unsplash.com/).
 
+#### Wireframes
+
+* I used Balsamic to wireframe from the outset as it was a much more attractive approach that drawing by hand. There were some minor changes made using the software. Below are the final itterations of the wireframes I based the website off in png. format. 
+
+1. [Mobile](mobile)
+2. [Tablet](tablet)
+3. [Desktop](desktop)
+
