@@ -115,3 +115,14 @@ font colours:
 
 ### Features Implemented
 
+* A beautiful and effective navigation through a navbar across each of the pages on the site.  
+* A booking form which allows the prospective customer to contact the site owner easily. 
+* Links to the site owners social media pages via slick Font Awesome icons. This is important as the site owner has a lot of content here which will give the prospective customers an in-depth view of the quality of the service provided in addition to what is on the website.  
+* The site owner's contact information i.e. telephone number and email. These are need in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
+* A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
+* Youtube video of the site owner displayed on the home page so that the site visitors can instantly see the service they will be paying for. 
+* Audio file teasers of the music that will be sung at their weddings. 
+* Responsive, mobile first layout that also looks great on tablets and desktops. This was done by using bootstrap's grid layout.
+* Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' page from 'Home'. 
+* An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
+* A carousel to on the landing pageto display the testimonials of the previous customers' positive experiences. 
