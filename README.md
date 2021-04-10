@@ -131,3 +131,25 @@ font colours:
 These features have not yet been implemented due to various reasons e.g. a lack of time
 
 * Testimonials page - You will see from my wireframes that I originally planned on creating a Testimonials page to display the testimonials on one page, but I decided that it would be more efficient while also giving the user a better experience. 
+
+
+## Technologies
+
+The following technologies were used throughout the creation of the website: 
+
+* [HTML 5](https://en.wikipedia.org/wiki/HTML) - HTML5 is a markup language used for structuring and presenting content on the World Wide Web.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - Cascading style sheets are a language used to describe and style the presentation of the content written in a markup language such as HTML5.
+* [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)  - A front-end framework designed to assist in creating responsive website design through the use of CSS and Javascript plugins.  
+* [Google Fonts](https://fonts.google.com/) - An online library of thousands of fonts that are free to use in websites.
+* [Font Awesome](https://fontawesome.com/) - 
+* [Balsamic](https://balsamiq.com/) - 
+* [Git](https://en.wikipedia.org/wiki/Git) - 
+* [GitHub](https://github.com/) - 
+* [GitPod](https://gitpod.io/) - 
+* [JQuery](https://en.wikipedia.org/wiki/JQuery) - 
+* [Popper](https://cdnjs.com/libraries/popper.js/2.5.3) - 
+* [W3 HTML Validator](https://validator.w3.org/) -  
+* [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) -
+* [Microsoft Edge (Chromium) Developer Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/) - Used this 
+* [Youtube Embedding](https://support.google.com/youtube/answer/171780?hl=en) - Used the Youtube embedding to copy code from Youtube to be able to display the videos on my site.
+* [Coolors](https://coolors.co/) - Used this to generate a colour scheme that matched what I wanted for the site.
