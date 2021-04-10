@@ -110,4 +110,8 @@ font colours:
 2. [Tablet](tablet)
 3. [Desktop](desktop)
 
+
 ## Features
+
+### Features Implemented
+
