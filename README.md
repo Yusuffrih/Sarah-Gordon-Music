@@ -83,7 +83,7 @@ When deciding the fonts that I would use on this website, I searched through [Go
 Icons used in this project were taken from [Font Awesome](https://fontawesome.com/). Icons were used to style the links to the social media pages and contact information in the footer. Some icons were also used to help illustrate the pricing section on the booking page.  
 
 
-#### Colours
+#### **Colours**
 
 When deciding what the colour scheme of my website would be, I did some research as mentioned above. I visited websites that had a similar purpose/goal to this one, Wedding Singers websites e.g. [https://weddingsinger.ie](https://weddingsinger.ie/). As previously mentioned, weddings generally tend to be themed with bright colours. This drove the decision around what the colour scheme would be, while being cognisant to keep it simple and not distracting from the content. 
 
@@ -91,13 +91,14 @@ I visited [Coolors](https://coolors.co/) to find a colour scheme which matched w
 
 ![color scheme](assets/images/color-scheme/ColourPalette-SarahGordonMusic.png)
 
-**font colours:**
+font colours:
 * For the general font in the body of the website, I chose **#4F646F** as it contrasted against the light coloured background image
 * H1: I chose **#535657**, a navy colour which contrasted very well with the white marbled background image I chose to have throughout the website. This differed from the rest of the text very slightly so as to give it increased importance to the site user.
 * Navbar, Testimonial containers and buttons were given a **#4F646F** this was to keep in scheme with the font. All items inside these elements were given a colour of **#F4FAFF** to contrast and make it easily readable.
 
-#### Images
+#### **Images**
 *Follow the below links to view the relative images*
 
 * The [hero image](assets/images/general/SGM.jpg) used was original and was uploaded from my hardrive.
 * Testimonial [profile photos](assets/images/testimonials) and the [background image](assets/images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg) of marbling that were used were obtained from [Unsplash](https://unsplash.com/).
+
