@@ -99,5 +99,5 @@ I visited [Coolors](https://coolors.co/) to find a colour scheme which matched w
 #### Images
 *Follow the below links to view the relative images*
 
-* The [hero image]() used was original and was uploaded from my hardrive.
-* Testimonial [profile photos]() and the [background image]() of marbling that were used were obtained from [Unsplash](https://unsplash.com/).
+* The [hero image](assets/images/general/SGM.jpg) used was original and was uploaded from my hardrive.
+* Testimonial [profile photos](assets/images/testimonials) and the [background image](assets/images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg) of marbling that were used were obtained from [Unsplash](https://unsplash.com/).
