@@ -126,3 +126,8 @@ font colours:
 * Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' page from 'Home'. 
 * An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
 * A carousel to on the landing pageto display the testimonials of the previous customers' positive experiences. 
+
+### Features Not Implemented
+These features have not yet been implemented due to various reasons e.g. a lack of time
+
+* Testimonials page - You will see from my wireframes that I originally planned on creating a Testimonials page to display the testimonials on one page, but I decided that it would be more efficient while also giving the user a better experience. 
