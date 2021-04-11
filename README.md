@@ -157,3 +157,31 @@ The following technologies were used throughout the creation of the website:
 * [Youtube Embedding](https://support.google.com/youtube/answer/171780?hl=en) - Used the Youtube embedding to copy code from Youtube to be able to display the videos on my site.
 * [Coolors](https://coolors.co/) - Used this to generate a colour scheme that matched what I wanted for the site.
 * [Lightohouse ](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Used to assess the level of accessibility, performance and correctness that was provided by the site.
+
+## Testing
+
+### User Story Testing
+
+1. To be able to view the site on a desktop / laptop / tablet or mobile.
+    * The website changes the way it is displayed in a seamless way. This makes it user friendly regardless of what size viewport the user is using.
+
+2. To be able to quickly hear the voice of the site owner so that I can be well informed when deciding on whether to avail of the service.
+    * The user need not go further than the landing page to be able to see and listen to the site owner singing. This gives the user a sense of the quality of the service immediately. They are they prompted, in both the navbar and the landing page content to go to the 'songs' page where they can here samples and watch Youtube videos.
+
+3. To know what the details of the services that are on offer.
+    * Once the user arrives at the landing page, they will see the navbar where they can find the 'Bookings' option. The user can access the booking page from the navbar where they will then see the packages and prices on offer.
+
+5. To be able to see a sample list of songs that the site owner can sing at my wedding.
+    * The user can see a 'Songs' page in the navbar. When they access this page, there is a list of sample songs that would typically be sung at weddings.
+
+6. To hear from previous customers about their experiences.
+    * Upon arriving at the landing page, the user will be prompted to scroll to the bottom of the page where they will find a carousel with musltiple testimonials from previous happy customers. 
+
+7. To be able to easily contact the site owner to make a booking.
+    * Upon landing at the landing page, the user will be see 'Bookings' in the navbar where they can go to make a booking through the fulling functioning form provided. 
+
+8. To be able to make a special request for a song to be sung on my wedding day.
+    * In the booking form, the site owner has added a text field prompting the user to add any specific song requests that they may have. 
+
+9. To know about the site owner as they will be taking part in my wedding day.
+    * The user will be able to read some information about the site owner in the 'Songs' page where the site owner has put up information about themselves as well as their performing experience and achievements. 
