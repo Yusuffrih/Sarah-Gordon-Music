@@ -249,3 +249,28 @@ Errors & Fixes:
 
 ### Lighthouse Testing
 
+* Lighthouse was used to assess the level of accessibility, performance and correctness that was provided by the site. This generated a report based on how the page performed against these criteria. It was great to use as, based on the results of the test, I could see where the scores fell down which prompted me to try and improve on the website.  
+
+### Compatibility Testing:
+
+#### Devices
+I tested the website's compatibility using the Microsoft Edge (Chromium) Developer Tools. The following devices were tested:
+* Moto G4
+* Iphone 4
+* Galaxt S5
+* Pixel 2
+* Pixel 2XL
+* Iphone 5/SE
+* Iphone 6/7/8
+* Iphone 6/7/8 Plus
+* Iphone X
+* Ipad
+* Ipad pro
+* Surface Duo
+* Galaxy Fold
+
+The compatibility testing was successful on all devices, giving the website an attractive look and feel as well as functionality on all. 
+
+#### Browsers
+
+I tested the website's compatibility using the Microsoft Edge (Chromium) Developer Tools. The following browsers were tested:
