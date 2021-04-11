@@ -118,14 +118,17 @@ font colours:
 * A beautiful and effective navigation through a navbar across each of the pages on the site.  
 * A booking form which allows the prospective customer to contact the site owner easily. 
 * Links to the site owners social media pages via slick Font Awesome icons. This is important as the site owner has a lot of content here which will give the prospective customers an in-depth view of the quality of the service provided in addition to what is on the website.  
-* The site owner's contact information i.e. telephone number and email. These are need in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
+* The site owner's contact information i.e. telephone number and email. These are needed in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
 * A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
 * Youtube video of the site owner displayed on the home page so that the site visitors can instantly see the service they will be paying for. 
 * Audio file teasers of the music that will be sung at their weddings. 
 * Responsive, mobile first layout that also looks great on tablets and desktops. This was done by using bootstrap's grid layout.
-* Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' page from 'Home'. 
+* Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' & 'About Me' pages from the landing page. 
 * An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
-* A carousel to on the landing pageto display the testimonials of the previous customers' positive experiences. 
+* A carousel to on the landing page to display the testimonials of the previous customers' positive experiences. 
+* Sample recordings of the site owner singing some of the songs that would be sung at weddings.
+* A pricing area that displays the prices of the different options available to perspective customers.
+
 
 ### Features Not Implemented
 These features have not yet been implemented due to various reasons e.g. a lack of time
@@ -137,19 +140,20 @@ These features have not yet been implemented due to various reasons e.g. a lack 
 
 The following technologies were used throughout the creation of the website: 
 
-* [HTML 5](https://en.wikipedia.org/wiki/HTML) - HTML5 is a markup language used for structuring and presenting content on the World Wide Web.
-* [CSS3](https://en.wikipedia.org/wiki/CSS) - Cascading style sheets are a language used to describe and style the presentation of the content written in a markup language such as HTML5.
-* [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)  - A front-end framework designed to assist in creating responsive website design through the use of CSS and Javascript plugins.  
-* [Google Fonts](https://fonts.google.com/) - An online library of thousands of fonts that are free to use in websites.
-* [Font Awesome](https://fontawesome.com/) - 
-* [Balsamic](https://balsamiq.com/) - 
-* [Git](https://en.wikipedia.org/wiki/Git) - 
-* [GitHub](https://github.com/) - 
-* [GitPod](https://gitpod.io/) - 
-* [JQuery](https://en.wikipedia.org/wiki/JQuery) - 
-* [Popper](https://cdnjs.com/libraries/popper.js/2.5.3) - 
-* [W3 HTML Validator](https://validator.w3.org/) -  
-* [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) -
+* [HTML 5](https://en.wikipedia.org/wiki/HTML) - HTML5 is a markup language I used for structuring and presenting content of my site.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - A language I used to describe and style the presentation of the content written in HTML5.
+* [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)  - A front-end framework which assist me in creating responsive website design.  
+* [Google Fonts](https://fonts.google.com/) - An open-source online library of thousands of fonts and icons that were free and easy to use.
+* [Font Awesome](https://fontawesome.com/) - An open source online library of icons which I used for extra styling.
+* [Balsamic](https://balsamiq.com/) - Software used to complete the wireframes. This was much easier than trying to draw.
+* [Git](https://en.wikipedia.org/wiki/Git) - System used for version control.
+* [GitHub](https://github.com/) - This is where my project repository was stored.
+* [GitPod](https://gitpod.io/) - Open source, online workspace used to work on my project.
+* [JQuery](https://en.wikipedia.org/wiki/JQuery) - Bootstrap depends on this to function fully.
+* [Popper](https://cdnjs.com/libraries/popper.js/2.5.3) - Bootstrap depends on this to function fully.
+* [W3 HTML Validator](https://validator.w3.org/) - Used to validate my code to ensure that there were no errors.
+* [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to validate my code to ensure that there were no errors. 
 * [Microsoft Edge (Chromium) Developer Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/) - Used this 
 * [Youtube Embedding](https://support.google.com/youtube/answer/171780?hl=en) - Used the Youtube embedding to copy code from Youtube to be able to display the videos on my site.
 * [Coolors](https://coolors.co/) - Used this to generate a colour scheme that matched what I wanted for the site.
+* [Lightohouse ](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Used to assess the level of accessibility, performance and correctness that was provided by the site.
