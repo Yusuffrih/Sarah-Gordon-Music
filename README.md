@@ -126,7 +126,6 @@ font colours:
 * Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' & 'About Me' pages from the landing page. 
 * An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
 * A carousel to on the landing page to display the testimonials of the previous customers' positive experiences. 
-* Sample recordings of the site owner singing some of the songs that would be sung at weddings.
 * A pricing area that displays the prices of the different options available to perspective customers.
 
 
@@ -207,6 +206,8 @@ Errors & Fixes:
 4. Booking.html
     * Error: Bad value address for attribute type on element input.
     * Fix: change type attrivbute value to 'text'
+    * Error: The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
+    * Fix: Added an empty value attribute to the placeholder option 'Choose...'
 
 #### CSS Validator
 
@@ -225,15 +226,23 @@ Errors & Fixes:
     * Navigation bar worked well and took me to each of the desired pages. The nav bar was tested on each page as well.
 2. A booking form which allows the prospective customer to contact the site owner easily. 
     * The booking form worked perfectly. All of the required attributes worked other that for the options field. 
-    * Fix:  
 3.  Links to the site owners social media pages via slick Font Awesome icons. This is important as the site owner has a lot of content here which will give the prospective customers an in-depth view of the quality of the service provided in addition to what is on the website.  
+    * All of the social media link and and icons worked as desired from each individual page's footer. They all open in another tab in the browser.
 4.  The site owner's contact information i.e. telephone number and email. These are needed in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
-5.. A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
+    * The information is dislayed for the site user to see and use manually as well as being functioning links to be clicked which will either call or email depending on which one you click. 
+5. A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
+    *  Upon arriving at the landing page, the user is greeted with a beautiful smiling image of the site owner. If the image does not load, there is still a background colour in place which fits with the colour scheme of the site.  
 6. Youtube video of the site owner displayed on the home page so that the site visitors can instantly see the service they will be paying for. 
+    * There are two Youtube videos that display on the landing page function well and are easily found
 7. Audio file teasers of the music that will be sung at their weddings. 
+    * The audio files all labelled and function correctly. The sound quality could be improved however as the recording were done on an iPhoneX and not a studio. 
 8. Responsive, mobile first layout that also looks great on tablets and desktops. This was done by using bootstrap's grid layout.
+    * After using the Bootstrap grid system, the website is fully responsive to all screen sizes.  
 9. Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' & 'About Me' pages from the landing page. 
-10. An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
+    * All buttons used were bootstrap buttons and used bootstrap classes. They all were custome styled thereafter and carried out the desired functions.
+10. An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are. 
+    * 
 11. A carousel to on the landing page to display the testimonials of the previous customers' positive experiences. 
-12. Sample recordings of the site owner singing some of the songs that would be sung at weddings.
+    * The user can see the testimonials carousel on the landing page which displays an image of the couple who are giving the testimonial, navigation buttons to go to the next/previous testimonial, the testimonial itself. All of this against a beautiful background container. 
 13. A pricing area that displays the prices of the different options available to perspective customers.
+    * When the user hits the landing page, the will be able to navigate to the Bookings page through the navbar where they will immediately see the pricing details above the booking form. 
