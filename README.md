@@ -185,3 +185,29 @@ The following technologies were used throughout the creation of the website:
 
 9. To know about the site owner as they will be taking part in my wedding day.
     * The user will be able to read some information about the site owner in the 'Songs' page where the site owner has put up information about themselves as well as their performing experience and achievements. 
+
+
+### Validator Testing
+
+#### HTML Validator
+
+The HTML validator used was [W3 HTML Validator](https://validator.w3.org/) 
+
+Errors & Fixes:
+1. Songs.html 
+    * Error: Attribute type not allowed on element audio at this point.
+    * Fix:  add source element and move src, title and type attributes here. 
+2. Booking.html
+    * Error: Bad value address for attribute type on element input.
+    * Fix: change type attrivbute value to 'text'
+
+#### CSS Validator
+
+[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+
+Errors:
+
+
+Fixes:
+
