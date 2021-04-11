@@ -195,14 +195,14 @@ The HTML validator used was [W3 HTML Validator](https://validator.w3.org/)
 
 Errors & Fixes:
 1. Index.html
-    * No errors on this page of html code. 
+    * No errors found in this page of code. 
 
 2. Songs.html 
     * Error: Attribute type not allowed on element audio at this point.
     * Fix:  add source element and move src, title and type attributes here. 
 
 3. Aboutme.html
-    * **Yet to be tested as it is not completed**
+    * No errors found in this page of code.
 4. Booking.html
     * Error: Bad value address for attribute type on element input.
     * Fix: change type attrivbute value to 'text'
@@ -246,3 +246,6 @@ Errors & Fixes:
     * The user can see the testimonials carousel on the landing page which displays an image of the couple who are giving the testimonial, navigation buttons to go to the next/previous testimonial, the testimonial itself. All of this against a beautiful background container. 
 13. A pricing area that displays the prices of the different options available to perspective customers.
     * When the user hits the landing page, the will be able to navigate to the Bookings page through the navbar where they will immediately see the pricing details above the booking form. 
+
+### Lighthouse Testing
+
