@@ -241,7 +241,7 @@ Errors & Fixes:
 9. Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' & 'About Me' pages from the landing page. 
     * All buttons used were bootstrap buttons and used bootstrap classes. They all were custome styled thereafter and carried out the desired functions.
 10. An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are. 
-    * 
+    * Upon arriving at the landing page, the user is greated with a welcome note by the site owner followed by a button which will take them to the 'About Me' page where they can see some information about the site owner.  
 11. A carousel to on the landing page to display the testimonials of the previous customers' positive experiences. 
     * The user can see the testimonials carousel on the landing page which displays an image of the couple who are giving the testimonial, navigation buttons to go to the next/previous testimonial, the testimonial itself. All of this against a beautiful background container. 
 13. A pricing area that displays the prices of the different options available to perspective customers.
