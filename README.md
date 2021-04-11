@@ -134,6 +134,7 @@ font colours:
 These features have not yet been implemented due to various reasons e.g. a lack of time
 
 * Testimonials page - You will see from my wireframes that I originally planned on creating a Testimonials page to display the testimonials on one page, but I decided that it would be more efficient while also giving the user a better experience. 
+* Modal - I wanted to have a modal appear when the user submitted their completed form. This would have been a nice piece of user feedback, however, due to scope of this project, I was not in a position to utilise it correctly. Modal code deleted from the Booking.html.  
 
 
 ## Technologies
@@ -194,10 +195,16 @@ The following technologies were used throughout the creation of the website:
 The HTML validator used was [W3 HTML Validator](https://validator.w3.org/) 
 
 Errors & Fixes:
-1. Songs.html 
+1. Index.html
+    * No errors on this page of html code. 
+
+2. Songs.html 
     * Error: Attribute type not allowed on element audio at this point.
     * Fix:  add source element and move src, title and type attributes here. 
-2. Booking.html
+
+3. Aboutme.html
+    * **Yet to be tested as it is not completed**
+4. Booking.html
     * Error: Bad value address for attribute type on element input.
     * Fix: change type attrivbute value to 'text'
 
@@ -206,8 +213,27 @@ Errors & Fixes:
 [W3 CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 
-Errors:
+Errors & Fixes:
+
+1. No errors found in CSS code
 
 
-Fixes:
 
+### Feature Testing:
+
+1. A beautiful and effective navigation through a navbar across each of the pages on the site.  
+    * Navigation bar worked well and took me to each of the desired pages. The nav bar was tested on each page as well.
+2. A booking form which allows the prospective customer to contact the site owner easily. 
+    * The booking form worked perfectly. All of the required attributes worked other that for the options field. 
+    * Fix:  
+3.  Links to the site owners social media pages via slick Font Awesome icons. This is important as the site owner has a lot of content here which will give the prospective customers an in-depth view of the quality of the service provided in addition to what is on the website.  
+4.  The site owner's contact information i.e. telephone number and email. These are needed in case the site visitor wants to contact the site owner and not make a booking. These are also displayed with Font Awesome icons. 
+5.. A beautiful hero image of the site owner across the home page giving the site visitors positive emotions from the moment they land on the page. 
+6. Youtube video of the site owner displayed on the home page so that the site visitors can instantly see the service they will be paying for. 
+7. Audio file teasers of the music that will be sung at their weddings. 
+8. Responsive, mobile first layout that also looks great on tablets and desktops. This was done by using bootstrap's grid layout.
+9. Bootstrap buttons used to make a booking once the form is filled in. Bootstrap buttons to bring the site user to the 'Songs' & 'About Me' pages from the landing page. 
+10. An 'About Me' page which gives the potential customers an insight into what kind of person the site owner is as well as the previous work she has done as a singer and what the main achievements are.  
+11. A carousel to on the landing page to display the testimonials of the previous customers' positive experiences. 
+12. Sample recordings of the site owner singing some of the songs that would be sung at weddings.
+13. A pricing area that displays the prices of the different options available to perspective customers.
