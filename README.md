@@ -299,3 +299,68 @@ I tested the website's compatibility using the Microsoft Edge (Chromium) Develop
 
 The compatibility testing was **successful on all websites**, giving the website an equally attractive look and feel as well as functionality on all browsers. 
 
+## Bugs
+
+Below are some of the bugs that I came across throughout the development of the website:
+
+### Resolved
+
+**1.**
+
+Bug: I could not figure out how to change the colour of the navigation items in the nav bar. 
+
+Fix:  Went onto the chrome dev tools and began to investigate where the issue lay. I found the code that controlled the colour of the nav-items and then added this to my CSS. 
+
+**2.**
+
+Bug: I lost the controls on the testimonials carousel after I input the photos.
+
+Fix: place the previous and next elements into the "carousel-inner" div
+
+**3.**
+
+Bug: 'Home' nav item on songs page was same colour as 'songs' when in the songs page
+
+Fix: Removed the 'active' class from 'Home nav-item in the html code which gave it a different colour
+
+**4.**
+
+Bug: Options selector in form on bookings page was not being validated. 
+
+Fix: added an empty value attribute to the placeholder option
+
+**5.**
+
+Bug: One of the testimonials was visible behind the rest of the carousel and you could see this as the next and previous buttons were pressed and the cards slid past.
+
+Fix: Active class was placed in more than one of the testimonial carousel cards which caused the error. Removed from the extra carousel item.
+
+**6.** 
+
+Bug: The footer contact elements (email and phone number) were displaying well in certain screen sizes but then the icon would move to the next line. This did not look well. 
+
+Fix: I input a couple of media queries which didn't stop it from happening but just made the overall look of the footer better when it did happen. 
+
+**7.** 
+
+
+### Unresolved
+
+There were no bugs that I encountered that I did not resolve. I found Youtube and the resources that were available to us either by the Coding Institute or through slack or tutoring to be a really big help when problem solving. 
+
+
+## Deployment
+
+Of course, this project was built on GitPod and the repository hosted within Github. This meant that it was deployed in Github Pages. There were only a few easy steps involved when deploying the website to Github Pages. They are the following:
+
+1. Open the browser
+2. Search for Github
+3. Sign-in using my Github account details
+4. Go to repositories page
+5. Open the relevant repository
+6. Go to settings
+7. Scroll until I get to Github pages section
+8. Click into the sources section
+9. Click into branches and select 'master'
+10. Once master is selected, click save
+11. Refresh page to see the confirmation of the deployment
