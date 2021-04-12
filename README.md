@@ -251,7 +251,24 @@ Errors & Fixes:
 
 * Lighthouse was used to assess the level of accessibility, performance and correctness that was provided by the site. This generated a report based on how the page performed against these criteria. It was great to use as, based on the results of the test, I could see where the scores fell down which prompted me to try and improve on the website.  
 
-### Compatibility Testing:
+The following are links to the PDF files of the results from Lighthouse testing: 
+
+**Mobile**
+
+* [Mobile - Home](testing/lighthouse_mobile/Mobile-Home.pdf)
+* [Mobile - Songs](testing/lighthouse_mobile/Mobile-Songs.pdf)
+* [Mobile - About Me](testing/lighthouse_mobile/Mobile-AboutMe.pdf)
+* [Mobile - Bookings](testing/lighthouse_mobile/Mobile-Booking.pdf)
+
+**Desktop**
+
+* [Desktop - Home](testing/lighthouse_desktop/Desktop-Home.pdf)
+* [Desktop - Songs](testing/lighthouse_desktop/Desktop-Songs.pdf)
+* [Deskstop - About Me](testing/lighthouse_desktop/Desktop-AboutMe.pdf)
+* [Desktop - Bookings](testing/lighthouse_desktop/Desktop-Bookings.pdf)
+
+
+### Compatibility & Responsive Testing:
 
 #### Devices
 I tested the website's compatibility using the Microsoft Edge (Chromium) Developer Tools. The following devices were tested:
@@ -269,8 +286,16 @@ I tested the website's compatibility using the Microsoft Edge (Chromium) Develop
 * Surface Duo
 * Galaxy Fold
 
-The compatibility testing was successful on all devices, giving the website an attractive look and feel as well as functionality on all. 
+The compatibility testing was **successful on all devices**, giving the website an attractive look and feel as well as functionality on all. 
 
 #### Browsers
 
 I tested the website's compatibility using the Microsoft Edge (Chromium) Developer Tools. The following browsers were tested:
+
+* Google Chrome
+* Safari 
+* Microsoft Edge
+* Mozilla Firefox
+
+The compatibility testing was **successful on all websites**, giving the website an equally attractive look and feel as well as functionality on all browsers. 
+
