@@ -351,6 +351,8 @@ There were no bugs that I encountered that I did not resolve. I found Youtube an
 
 ## Deployment
 
+### Online
+
 Of course, this project was built on GitPod and the repository hosted within Github. This meant that it was deployed in Github Pages. There were only a few easy steps involved when deploying the website to Github Pages. They are the following:
 
 1. Open the browser
@@ -364,3 +366,20 @@ Of course, this project was built on GitPod and the repository hosted within Git
 9. Click into branches and select 'master'
 10. Once master is selected, click save
 11. Refresh page to see the confirmation of the deployment
+
+### Cloning
+
+To make a clone of the repository to your desktop and begin working on it locally, follow these steps:
+
+1. Open the browser
+2. Search for Github
+3. Sign-in using my Github account details
+4. Go to repositories page
+5. Open the relevant repository
+6. Click on the 'code' button beside the green 'GitPod' button
+7. Paste the url provided
+8. Open the desktop workspace
+9. Choose the location from where you want to clone the repository
+11. Paste in the url from step 7 into local path
+10. Click clone
+12. Enter
