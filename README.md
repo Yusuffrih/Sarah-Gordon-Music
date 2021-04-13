@@ -288,6 +288,7 @@ The following are links to the PDF files of the results from Lighthouse testing:
 ### Compatibility & Responsive Testing:
 
 #### Devices
+
 I tested the website's compatibility using the Microsoft Edge (Chromium) Developer Tools. The following devices were tested:
 * Moto G4
 * Iphone 4
@@ -314,7 +315,7 @@ I tested the website's compatibility using the Microsoft Edge (Chromium) Develop
 * Microsoft Edge
 * Mozilla Firefox
 
-The compatibility testing was **successful on all websites**, giving the website an equally attractive look and feel as well as functionality on all browsers. 
+The testing was **successful on all websites**, giving the website an equally attractive look and feel as well as functionality on all browsers. 
 
 ## Bugs
 
@@ -400,3 +401,8 @@ To make a clone of the repository to your desktop and begin working on it locall
 11. Paste in the url from step 7 into local path
 10. Click clone
 12. Enter
+
+
+## **Credits**
+
+
