@@ -405,4 +405,39 @@ To make a clone of the repository to your desktop and begin working on it locall
 
 ## **Credits**
 
+### Code:
+
+* Bootstrap - used for enhancing the responsiveness of the website through CSS and Script plug-ins
+* Font Awesome - used for adding attractive icons into the site  
+* Youtube - Embedded Youtube videos through copying the code 
+
+### Resources
+
+* Youtube - used Youtube to help me solve problems as I went through the development process
+* Code Institute lecture videos - These were a great help to refer back to 
+* Mentor sessions - Mentor provided great feedback on the ideas I had and then on the website itself when it was more tangible.
+* Tutors - Tutors are a great resource to have on hand
+* Slack - fellow student support is both useful and comforting
+* W3 Schools - This website is a brilliant resource that I used on a very frequent basis.
+* Coolors - Used this site to get a colour scheme which I liked for the website
+
+Images: 
+
+* I used [Unsplashed](https://unsplash.com/) to get the [photos](https://github.com/Yusuffrih/Sarah-Gordon-Music/tree/master/assets/images/testimonials) for the testimonials and the [background photo](assets/images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg)
+
+* The [hero image](assets/images/general/SGM.jpg) is an original provided to me by the subject of the photo
+
+
+### Acknowledgements
+
+I would like to thank the following for all of the assistance throughout the development of this project:
+* Code Institute Tutors
+* My Mentor Ignatius for all of the great advice
+* Everybody on the Slack community for always being on hand to answer any questions I had
+*  My family
+
+
+
+***This website is for educational purposes only!***  
+
 
