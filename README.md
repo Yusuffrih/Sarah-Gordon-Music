@@ -112,7 +112,7 @@ font colours:
 
     * [Home](wireframes/mobile/Home-Mobile.png)
     * [Songs](wireframes/mobile/Songs-Mobile.png)
-    * [About Me](wireframes/mobile/About Me-Mobile.png)
+    * [About Me](wireframes/mobile/AboutMe-Mobile.png)
     * [Bookings](wireframes/mobile/Bookings-Mobile.png)
 
 2. Tablet Wireframes:
