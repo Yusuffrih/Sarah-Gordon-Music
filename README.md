@@ -1,8 +1,10 @@
 # **SARAH GORDON MUSIC**
 
+![Am I Responsive Image](assets/images/general/Am-I-Responsive.png)
+
 [View live website here!](https://yusuffrih.github.io/Sarah-Gordon-Music/) 
 
-### Contents
+## **Contents**
 * User Experience - UX
     * Project Goal
     *User Goals
@@ -24,7 +26,7 @@
 * Deployment
 * Credit
 
-## User Experience (UX)
+## **User Experience (UX)**
 
 ### Project Goal
 
@@ -55,7 +57,7 @@ As a site owner, I want:
 
 ### User Requirements & Expectations
 
-#### **Requirements**
+#### Requirements:
 
 * To be able to navigate the website using the navbar
 * To be able to hear the voice of the singer and to see her performing, giving the user a shop window view of the service being offered
@@ -63,7 +65,7 @@ As a site owner, I want:
 * To be able to quickly contact the site owner
 * For the content of the page to be displayed in a way that is readible and attractive and promotes a positive user experience
 
-#### **Expectations**
+#### Expectations:
 * The existence of a nav-bar which makes it easy to navigate the website pages
 * To be able to read about previous customers' experiences in a testimonials page
 * Information about the site owner is easily found and gives a good sense of their abilities. This is essential when paying for this kind of service
@@ -75,15 +77,15 @@ As a site owner, I want:
 
 When designing the website, I carried out some market research to see what the general design choices for similar websites. I carried out [Google](https://www.google.com) searches to see if I could find websites which provided a similar service that I could take some inspiration from. As part of my research, I found that there was generally a bright, almost Spring time theme which was sleek and attractive throughout. This was in keeping with the wedding theme.
 
-#### **Fonts** 
+#### Fonts:
 When deciding the fonts that I would use on this website, I searched through [Google Fonts](https://fonts.google.com/) to see if there were any fonts that looked attractive and sleek and that would look good when styled. I chose the *Cormorant Garamond* font due to its nice, stylish look which I though suited the sites look and feel. I decided have used *Sans-Serif* as a backup font in case [Google Fonts](https://fonts.google.com/) does not work for any reason. 
 
-#### **Icons**
+#### Icons:
 
 Icons used in this project were taken from [Font Awesome](https://fontawesome.com/). Icons were used to style the links to the social media pages and contact information in the footer. Some icons were also used to help illustrate the pricing section on the booking page.  
 
 
-#### **Colours**
+#### Colours:
 
 When deciding what the colour scheme of my website would be, I did some research as mentioned above. I visited websites that had a similar purpose/goal to this one, Wedding Singers websites e.g. [https://weddingsinger.ie](https://weddingsinger.ie/). As previously mentioned, weddings generally tend to be themed with bright colours. This drove the decision around what the colour scheme would be, while being cognisant to keep it simple and not distracting from the content. 
 
@@ -96,7 +98,7 @@ font colours:
 * H1: I chose **#535657**, a navy colour which contrasted very well with the white marbled background image I chose to have throughout the website. This differed from the rest of the text very slightly so as to give it increased importance to the site user.
 * Navbar, Testimonial containers and buttons were given a **#4F646F** this was to keep in scheme with the font. All items inside these elements were given a colour of **#F4FAFF** to contrast and make it easily readable.
 
-#### **Images**
+#### Images
 *Follow the below links to view the relative images*
 
 * The [hero image](assets/images/general/SGM.jpg) used was original and was uploaded from my hardrive.
@@ -111,7 +113,7 @@ font colours:
 3. [Desktop](desktop)
 
 
-## Features
+## **Features**
 
 ### Features Implemented
 
@@ -136,7 +138,7 @@ These features have not yet been implemented due to various reasons e.g. a lack 
 * Modal - I wanted to have a modal appear when the user submitted their completed form. This would have been a nice piece of user feedback, however, due to scope of this project, I was not in a position to utilise it correctly. Modal code deleted from the Booking.html.  
 
 
-## Technologies
+## **Technologies**
 
 The following technologies were used throughout the creation of the website: 
 
@@ -158,7 +160,7 @@ The following technologies were used throughout the creation of the website:
 * [Coolors](https://coolors.co/) - Used this to generate a colour scheme that matched what I wanted for the site.
 * [Lightohouse ](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - Used to assess the level of accessibility, performance and correctness that was provided by the site.
 
-## Testing
+## **Testing**
 
 ### User Story Testing
 
@@ -211,14 +213,12 @@ Errors & Fixes:
 
 #### CSS Validator
 
-[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)
+[W3 CSS Validator](https://jigsaw.w3.org/css-validator/) was the validator I used to ensure the CSS code did not contain errors. 
 
 
 Errors & Fixes:
 
 1. No errors found in CSS code
-
-
 
 ### Feature Testing:
 
