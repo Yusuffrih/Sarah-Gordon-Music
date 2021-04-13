@@ -108,12 +108,26 @@ font colours:
 
 * I used Balsamic to wireframe from the outset as it was a much more attractive approach that drawing by hand. There were some minor changes made using the software. Below are the final itterations of the wireframes I based the website off in png. format. 
 
-1. Mobile
+1. Mobile Wireframes:
+
     * [Home](wireframes/mobile/Home-Mobile.png)
-    * [Songs]()
-    *
-2. [Tablet]()
-3. [Desktop]()
+    * [Songs](wireframes/mobile/Songs-Mobile.png)
+    * [About Me](wireframes/mobile/About Me-Mobile.png)
+    * [Bookings](wireframes/mobile/Bookings-Mobile.png)
+
+2. Tablet Wireframes:
+
+    * [Home](wireframes/tablet/Home.png)
+    * [Songs](wireframes/tablet/Songs.png)
+    * [About Me](wireframes/tablet/About Me.png)
+    * [Bookings](wireframes/tablet/Bookings.png)
+
+3. Desktop Wireframes:
+
+    * [Home](wireframes/desktop/Home.png)
+    * [Songs](wireframes/desktop/Songs.png)
+    * [About Me](wireframes/desktop/AboutMe.png)
+    * [Bookings](wireframes/desktop/Bookings.png)
 
 
 ## **Features**
