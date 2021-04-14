@@ -229,10 +229,11 @@ Errors & Fixes:
 3. Aboutme.html
     * No errors found in this page of code.
 4. Booking.html
-    * Error: Bad value address for attribute type on element input.
-    * Fix: change type attrivbute value to 'text'
-    * Error: The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
-    * Fix: Added an empty value attribute to the placeholder option 'Choose...'
+    * Error 1: Bad value address for attribute type on element input.
+    * Fix 1: change type attrivbute value to 'text'
+
+    * Error 2: The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
+    * Fix 2: Added an empty value attribute to the placeholder option 'Choose...'
 
 #### CSS Validator
 
