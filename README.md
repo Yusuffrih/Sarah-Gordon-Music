@@ -272,17 +272,17 @@ The following are links to the PDF files of the results from Lighthouse testing:
 
 **Mobile**
 
-* [Mobile - Home](testing/lighthouse_mobile/Mobile-Home.pdf)
-* [Mobile - Songs](testing/lighthouse_mobile/Mobile-Songs.pdf)
-* [Mobile - About Me](testing/lighthouse_mobile/Mobile-AboutMe.pdf)
-* [Mobile - Bookings](testing/lighthouse_mobile/Mobile-Booking.pdf)
+* [Mobile - Home](testing/lighthouse_mobile/mobile-home.pdf)
+* [Mobile - Songs](testing/lighthouse_mobile/mobile-songs.pdf)
+* [Mobile - About Me](testing/lighthouse_mobile/mobile-aboutme.pdf)
+* [Mobile - Bookings](testing/lighthouse_mobile/mobile-booking.pdf)
 
 **Desktop**
 
-* [Desktop - Home](testing/lighthouse_desktop/Desktop-Home.pdf)
-* [Desktop - Songs](testing/lighthouse_desktop/Desktop-Songs.pdf)
-* [Deskstop - About Me](testing/lighthouse_desktop/Desktop-AboutMe.pdf)
-* [Desktop - Bookings](testing/lighthouse_desktop/Desktop-Bookings.pdf)
+* [Desktop - Home](testing/lighthouse_desktop/desktop-home.pdf)
+* [Desktop - Songs](testing/lighthouse_desktop/desktop-songs.pdf)
+* [Deskstop - About Me](testing/lighthouse_desktop/desktop-aboutme.pdf)
+* [Desktop - Bookings](testing/lighthouse_desktop/desktop-bookings.pdf)
 
 
 ### Compatibility & Responsive Testing:
