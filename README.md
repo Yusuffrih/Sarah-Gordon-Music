@@ -110,24 +110,24 @@ font colours:
 
 1. Mobile Wireframes:
 
-    * [Home](wireframes/mobile/Home-Mobile.png)
-    * [Songs](wireframes/mobile/Songs-Mobile.png)
-    * [About Me](wireframes/mobile/AboutMe-Mobile.png)
-    * [Bookings](wireframes/mobile/Bookings-Mobile.png)
+    * [Home](wireframes/mobile/home.png)
+    * [Songs](wireframes/mobile/songs.png)
+    * [About Me](wireframes/mobile/aboutme.png)
+    * [Bookings](wireframes/mobile/bookings.png)
 
 2. Tablet Wireframes:
 
-    * [Home](wireframes/tablet/Home.png)
-    * [Songs](wireframes/tablet/Songs.png)
-    * [About Me](wireframes/tablet/AboutMe.png)
-    * [Bookings](wireframes/tablet/Bookings.png)
+    * [Home](wireframes/tablet/home.png)
+    * [Songs](wireframes/tablet/songs.png)
+    * [About Me](wireframes/tablet/aboutme.png)
+    * [Bookings](wireframes/tablet/bookings.png)
 
 3. Desktop Wireframes:
 
-    * [Home](wireframes/desktop/Home.png)
-    * [Songs](wireframes/desktop/Songs.png)
-    * [About Me](wireframes/desktop/AboutMe.png)
-    * [Bookings](wireframes/desktop/Bookings.png)
+    * [Home](wireframes/desktop/home.png)
+    * [Songs](wireframes/desktop/songs.png)
+    * [About Me](wireframes/desktop/aboutme.png)
+    * [Bookings](wireframes/desktop/bookings.png)
 
 
 ## **Features**
