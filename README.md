@@ -119,7 +119,7 @@ font colours:
 
     * [Home](wireframes/tablet/Home.png)
     * [Songs](wireframes/tablet/Songs.png)
-    * [About Me](wireframes/tablet/About Me.png)
+    * [About Me](wireframes/tablet/AboutMe.png)
     * [Bookings](wireframes/tablet/Bookings.png)
 
 3. Desktop Wireframes:
@@ -421,7 +421,7 @@ To make a clone of the repository to your desktop and begin working on it locall
 * W3 Schools - This website is a brilliant resource that I used on a very frequent basis.
 * Coolors - Used this site to get a colour scheme which I liked for the website
 
-Images: 
+### Images
 
 * I used [Unsplashed](https://unsplash.com/) to get the [photos](https://github.com/Yusuffrih/Sarah-Gordon-Music/tree/master/assets/images/testimonials) for the testimonials and the [background photo](assets/images/general/augustine-wong-li0iC0rjvvg-unsplash.jpg)
 
