@@ -239,10 +239,10 @@ Errors & Fixes:
 
 [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) was the validator I used to ensure the CSS code did not contain errors. 
 
-
 Errors & Fixes:
 
 1. No errors found in CSS code
+
 
 ### Feature Testing:
 
