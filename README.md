@@ -91,7 +91,7 @@ When deciding what the colour scheme of my website would be, I did some research
 
 I visited [Coolors](https://coolors.co/) to find a colour scheme which matched what I envisaged for the site. I chose the font colors and the background colors off of this palette.  
 
-![color scheme](assets/images/color-scheme/ColourPalette-SarahGordonMusic.png)
+![color scheme](assets/images/color-scheme/colourpalette-sarahgordonmusic.png)
 
 font colours:
 * For the general font in the body of the website, I chose **#4F646F** as it contrasted against the light coloured background image
