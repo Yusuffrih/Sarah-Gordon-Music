@@ -321,7 +321,7 @@ The testing was **successful on all websites**, giving the website an equally at
 
 Below are some of the bugs that I came across throughout the development of the website:
 
-### Resolved
+### Resolved Bugs
 
 **1.**
 
@@ -362,7 +362,7 @@ Fix: I input a couple of media queries which didn't stop it from happening but j
 **7.** 
 
 
-### Unresolved
+### Unresolved Bugs
 
 There were no bugs that I encountered that I did not resolve. I found Youtube and the resources that were available to us either by the Coding Institute or through slack or tutoring to be a really big help when problem solving. 
 
