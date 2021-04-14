@@ -366,8 +366,6 @@ Bug: The footer contact elements (email and phone number) were displaying well i
 
 Fix: I input a couple of media queries which didn't stop it from happening but just made the overall look of the footer better when it did happen. 
 
-**7.** 
-
 
 ### Unresolved Bugs
 
