@@ -436,7 +436,7 @@ I would like to thank the following for all of the assistance throughout the dev
 * Everybody on the Slack community for always being on hand to answer any questions I had
 *  My family
 
-
+<br>
 
 ***This website is for educational purposes only!***  
 
