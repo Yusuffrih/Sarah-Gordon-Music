@@ -40,24 +40,16 @@
             </div>
         </nav>
 
+        <main class="container">
+            <!-- Header section -->
+            <header class="hero-section">
+                <h1>Bookings</h1>
+            </header>
+            <hr>
+            
 
-        <!-- Header section -->
-
-        <header class="container hero-section">
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <h1>Bookings</h1>
-                </div>
-            </div>
-        </header>
-        <hr>
-        
-        <!-- Pricing section -->
-
-        <div class="container">
-            <div class="row justify-content-center">
-                <h2>Pricing</h2>
-            </div>
+            <!-- Pricing section -->
+            <h2>Pricing</h2>
             <div class="row justify-content-center">
                 <div class="col-sm-6">
                     <h4>Wedding Ceremony</h4>
@@ -83,74 +75,68 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <hr>
+            <hr>
 
-        <!-- Book Now Section -->
-
-        <div class="container">
-            <div class="row justify-content-center">
-                <h2>Book Now</h2>
-            </div>
-        </div>
-
-        <!-- Bootstrap Form -->
-        <form class="container" id="form-container">
-            <div class="form-row">
+            <!-- Book Now Section -->
+            <h2>Book Now</h2>
+            
+            <!-- Bootstrap Form -->
+            <form class="container" id="form-container">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                    <label for="firstname-input">First Name</label>
+                    <input type="text" class="form-control" id="firstname-input" name="first-name" placeholder="First name here" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                    <label for="lastname-input">Last Name</label>
+                    <input type="text" class="form-control" id="lastname-input" name="last-name" placeholder="Last name here" required>
+                    </div>
+                </div>
+                <div class="form-row">
                 <div class="form-group col-md-6">
-                  <label for="firstname-input">First Name</label>
-                  <input type="text" class="form-control" id="firstname-input" name="first-name" placeholder="First name here" required>
+                    <label for="email-input">Email</label>
+                    <input type="email" class="form-control" id="email-input" name="email-address" placeholder="joebloggs@---.com" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="lastname-input">Last Name</label>
-                  <input type="text" class="form-control" id="lastname-input" name="last-name" placeholder="Last name here" required>
+                    <label for="phone-input">Phone</label>
+                    <!-- Pattern attibute from W3 Schools -->
+                    <input type="tel" class="form-control" id="phone-input" name="phone-number" placeholder="086-xxxxxxx" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required>
                 </div>
-            </div>
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <label for="email-input">Email</label>
-                <input type="email" class="form-control" id="email-input" name="email-address" placeholder="joebloggs@---.com" required>
-              </div>
-              <div class="form-group col-md-6">
-                <label for="phone-input">Phone</label>
-                <!-- Pattern attibute from W3 Schools -->
-                <input type="tel" class="form-control" id="phone-input" name="phone-number" placeholder="086-xxxxxxx" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required>
-              </div>
-            </div>
-            <div class="form-row justify-content-center">
-                <div class="form-group col-md-6">
-                    <label for="weddingdate-input">Date of Wedding</label>
-                    <input type="date" class="form-control" id="weddingdate-input" name="wedding-date" required>
                 </div>
-                <div class="form-group col-md-6">
-                    <label for="options-selector">Booking Options</label>
-                    <select class="custom-select" id="options-selector" required>
-                        <option value="" selected disabled>Choose...</option>
-                        <option value="1">Wedding Ceremony</option>
-                        <option value="2">Drinks Reception</option>
-                        <option value="3">Both</option>
-                    </select>
-                </div>  
-            </div>
-            <div class="form-group">
-              <label for="wedding-address">Full Address of Wedding</label>
-              <input type="text" class="form-control" id="wedding-address" placeholder="1234 Main St" name="full-ceremony-address" required>
-            </div>
-            <div class="form-group">
-                <label for="reception-address">Full Address of Reception</label>
-                <input type="text" class="form-control" id="reception-address" placeholder="(If applicable)" name="full-reception-address">
-            </div>
-            <div class="form-group">
-                <label for="aboutyou-input">About You</label>
-                <textarea class="form-control" id="aboutyou-input" rows="3" placeholder="Tell me a little about you and your partner" name="about-you" required></textarea>
-            </div>
-            <div class="form-group">
-                <label for="songrequests-input">Song Requests</label>
-                <textarea class="form-control" id="songrequests-input" rows="3" placeholder="Let me know if you have any specific song requests" name="song-requests"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary btn-lg" id="book-now-button" value="submit" data-toggle="modal" data-target="#thanks-modal">Get in Touch!</button>
-        </form>
-
+                <div class="form-row justify-content-center">
+                    <div class="form-group col-md-6">
+                        <label for="weddingdate-input">Date of Wedding</label>
+                        <input type="date" class="form-control" id="weddingdate-input" name="wedding-date" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="options-selector">Booking Options</label>
+                        <select class="custom-select" id="options-selector" required>
+                            <option value="" selected disabled>Choose...</option>
+                            <option value="1">Wedding Ceremony</option>
+                            <option value="2">Drinks Reception</option>
+                            <option value="3">Both</option>
+                        </select>
+                    </div>  
+                </div>
+                <div class="form-group">
+                <label for="wedding-address">Full Address of Wedding</label>
+                <input type="text" class="form-control" id="wedding-address" placeholder="1234 Main St" name="full-ceremony-address" required>
+                </div>
+                <div class="form-group">
+                    <label for="reception-address">Full Address of Reception</label>
+                    <input type="text" class="form-control" id="reception-address" placeholder="(If applicable)" name="full-reception-address">
+                </div>
+                <div class="form-group">
+                    <label for="aboutyou-input">About You</label>
+                    <textarea class="form-control" id="aboutyou-input" rows="3" placeholder="Tell me a little about you and your partner" name="about-you" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="songrequests-input">Song Requests</label>
+                    <textarea class="form-control" id="songrequests-input" rows="3" placeholder="Let me know if you have any specific song requests" name="song-requests"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg" id="book-now-button" value="submit" data-toggle="modal" data-target="#thanks-modal">Get in Touch!</button>
+            </form>
+        </main>
         <!-- Bootstrap Modal -->
 
         <!-- <div class="modal" id="thanks-modal" tabindex="-1">
