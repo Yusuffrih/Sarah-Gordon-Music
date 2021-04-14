@@ -247,6 +247,10 @@ blockquote i {
     margin-top: 15px;
 }
 
+ul.experience-item {
+    padding-left: 0;
+}
+
 .experience-item li {
     list-style: none;
 }
