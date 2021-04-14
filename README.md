@@ -1,6 +1,6 @@
 # **SARAH GORDON MUSIC**
 
-![Am I Responsive Image](assets/images/general/Am-I-Responsive.png)
+![Am I Responsive Image](assets/images/general/am-i-responsive.png)
 
 [View live website here!](https://yusuffrih.github.io/Sarah-Gordon-Music/) 
 
