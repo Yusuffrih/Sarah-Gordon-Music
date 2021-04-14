@@ -130,7 +130,8 @@ font colours:
     * [Bookings](wireframes/desktop/bookings.png)
 
 
-Testimonials Wireframes not implemented:
+4. Wireframesof Testimonials page not implemented:
+
     * [Mobile](wireframes/mobile/testimonials.png)
     * [Tablet](wireframes/tablet/testimonials.png)
     * [Desktop](wireframes/desktop/testimonials.png)
